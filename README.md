@@ -1,2 +1,1 @@
-# oogle2
-stolen from https://github.com/Branislavjvc/Oogle
+A basic Google clone; assignment from theodinproject.com

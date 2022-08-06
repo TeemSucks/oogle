@@ -1,3 +1,3 @@
-stolen from https://github.com/Branislavjvc/Oogle
+# stolen from https://github.com/Branislavjvc/Oogle
 
-# https://teemsucks.github.io/oogle/
+https://teemsucks.github.io/oogle/

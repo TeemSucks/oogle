@@ -1,1 +1,1 @@
-A basic Google clone; assignment from theodinproject.com
+stolen from https://github.com/Branislavjvc/Oogle
